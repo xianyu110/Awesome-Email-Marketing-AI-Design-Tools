@@ -51,6 +51,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | :--- | :--- | :--- | :--- |
 | **[Brew](https://brew.ai/)** | AI-native ESP for complete campaign generation. | Starts at $49 | Yes (1,000 sends, 500 AI credits) |
 | **[Ideogram 4.0](https://ideogram.ai/)** | Best-in-class typography for email hero banners. | Starts at ~$7 | Yes (10 slow credits/week) |
+| **[GPT Image 2](https://gptimage2.asia/)** | AI image generation and editing for branded email visuals, product shots, campaign creatives, and social assets. | Freemium | Free credits/trial available |
 | **[Midjourney](https://midjourney.com/)** | Pro-grade AI visuals and high-end photography. | Starts at $10 | No |
 | **[Canva Magic Studio](https://canva.com/)** | All-in-one AI design suite with easy resizing. | Starts at ~$13 | Yes (Limited AI credits) |
 | **[Stripo](https://stripo.email/)** | HTML builder with AI copy & subject line tools. | Starts at $20 | Yes (10 emails, 4 exports) |
