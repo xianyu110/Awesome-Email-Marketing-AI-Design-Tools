@@ -23,6 +23,8 @@
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **AI design tools for email marketing**. These tools help marketers and designers generate beautiful email images, templates, layouts, hero banners, product visuals, and personalized creative assets at scale using text prompts and brand guidelines.
 
+Related visual workflow: [GPT Image 2](https://gptimage2.asia/) can generate campaign images, ecommerce visuals, social posts, and branded creative assets from prompts.
+
 **Examples** include FloatPic, Ideogram 4.0, Lumo Studios, and Brew (the category leaders). Tools listed here emphasize **high-quality email-ready assets**, brand consistency, fast iteration, and seamless export to ESPs (Mailchimp, Klaviyo, etc.).
 
 ---
